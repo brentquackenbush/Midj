@@ -1,0 +1,8 @@
+# Ignore the config file
+config.yaml
+
+# Ignore binary files
+bin/
+
+# Ignore log files
+*.log
